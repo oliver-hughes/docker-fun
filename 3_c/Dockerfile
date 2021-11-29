@@ -1,4 +1,4 @@
 FROM scratch
-COPY hellogcc hellogcc
-CMD ["./hellogcc"]
+COPY hello3 hello3
+CMD ["./hello3"]
 
